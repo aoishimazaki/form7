@@ -1,5 +1,5 @@
 <?php
-
+// スーパーグローバル変数
  $nickname = $_POST['nickname'];
  $email = $_POST['email'];
  $content = $_POST['content'];
